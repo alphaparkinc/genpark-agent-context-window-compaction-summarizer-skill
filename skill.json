@@ -1,0 +1,8 @@
+{
+  "name": "genpark-agent-context-window-compaction-summarizer-skill",
+  "version": "1.0.1",
+  "description": "Recursive conversational context compaction summarizer pruning middle turns into semantic bridges to preserve LLM token limits.",
+  "category": "Context Management",
+  "entrypoint": "mcp_server.py",
+  "dependencies": []
+}
